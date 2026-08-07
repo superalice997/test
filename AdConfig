@@ -2,9 +2,9 @@
   "code": 200,
   "message": "success",
   "data": {
-    "config_id": "ad_assets_20260731_07",
+    "config_id": "ad_assets_20260731_08",
     "refresh_interval_seconds": 1800,
-    "ad_assets_url": "https://cdn.jsdmirror.com/gh/superalice997/test/ad_assets_20260731_07.zip",
+    "ad_assets_url": "https://cdn.jsdmirror.com/gh/superalice997/test/ad_assets_20260731_08.zip",
     "ads": [{
       "ad_id": "ad_dsp_pos_10024",
       "ad_type": "img_interstitiall",
