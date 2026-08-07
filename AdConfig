@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "config_id": "ad_assets_20260731_07",
+    "refresh_interval_seconds": 1800,
+    "ad_assets_url": "https://cdn.jsdmirror.com/gh/superalice997/test/ad_assets_20260731_07.zip",
+    "ads": [{
+      "ad_id": "ad_dsp_pos_10024",
+      "ad_type": "img_interstitiall",
+      "file_name": "ad_video.mov",
+      "billing_mode": "CPM",
+      "display_strategies": {
+        "display_ms": 9000,
+        "allow_skip": true,
+        "skip_delay_ms": 1500,
+        "clickable": false
+      },
+      "tracking_events": {
+        "click_urls": []
+      },
+      "material_meta": {
+        "package_hash": "a4f8e91c2b3d4e5f632d8c9d0e1f2a3b",
+        "package_size": 8291,
+        "render_fallback_color": "#FFFFFF"
+      }
+    }]
+  }
+}
